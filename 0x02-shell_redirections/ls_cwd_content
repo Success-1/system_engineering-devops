@@ -1,5 +1,5 @@
-total 44
-drwxr-xr-x 3 root root 274 Jun 30 17:51 .
+total 48
+drwxr-xr-x 3 root root 303 Jun 30 18:00 .
 drwxr-xr-x 6 root root 167 Jun 30 16:20 ..
 -rwxr-xr-x 1 root root  32 Jun 30 15:56 0-hello_world
 -rwxr-xr-x 1 root root  28 Jun 30 16:37 1-confused_smiley
@@ -9,8 +9,9 @@ drwxr-xr-x 6 root root 167 Jun 30 16:20 ..
 -rwxr-xr-x 1 root root  29 Jun 30 17:00 5-firstlines
 -rwxr-xr-x 1 root root  40 Jun 30 17:03 6-third_line
 -rwxr-xr-x 1 root root  73 Jun 30 17:08 7-file
--rwxr-xr-x 1 root root  36 Jun 30 17:50 8-cwd_state
+-rwxr-xr-x 1 root root  36 Jun 30 17:54 8-cwd_state
+-rwxr-xr-x 1 root root  36 Jun 30 18:00 9-duplicate_last_line
 -rw-r--r-- 1 root root  12 Jun 30 17:35 *'"Best School"'\*$\?\*\*\*\*\*:\)
-drwxr-xr-x 8 root root 201 Jun 30 16:57 .git
--rw-r--r-- 1 root root   0 Jun 30 17:51 ls_cwd_content
+drwxr-xr-x 8 root root 201 Jun 30 17:51 .git
+-rw-r--r-- 1 root root   0 Jun 30 18:00 ls_cwd_content
 -rw-r--r-- 1 root root 209 Jun 30 16:20 README.md
